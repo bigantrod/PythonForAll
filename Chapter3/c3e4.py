@@ -13,3 +13,4 @@ if nums[1] == nums[2]:
     print('They are all the same')
 elif nums[1] != nums[0]:
     print('They are not the same')
+print('The End')
